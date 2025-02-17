@@ -1,7 +1,6 @@
 from swarm import Agent
 from swarm.repl import run_demo_loop
 
-client = swarm() 
 
 
 def execute_order(product, price: int):
